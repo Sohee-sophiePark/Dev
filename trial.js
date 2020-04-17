@@ -145,32 +145,32 @@ window.addEventListener("DOMContentLoaded", () => {
             prBar.style.width = "200px";
             msg.innerHTML = "in another 2 years";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Get a further degree in Statistics or Deep Learning";
+            msg.innerHTML += "To get a further degree in Statistics or Deep Learning";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Get a meaningful achievement and make a big accomplishment in the area";
+            msg.innerHTML += "To publish papers in ML/DNN and make myself an awesome brand";
 
             break;
             case 200:
             prBar.style.width = "300px";
-            msg.innerHTML = "Do better to myself"
+            msg.innerHTML = "Love myself"
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Love myself";
+            msg.innerHTML += "Respect myself";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "then willingyLove somebody";
+            msg.innerHTML += "then, willing to love somebody";
 
             break;
 
             case 300:
             prBar.style.width = "400px";
-            msg.innerHTML = "get A further Degree"
+            msg.innerHTML = "To do my own business "
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Release some Applications and products";
+            msg.innerHTML += "To publish books";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Write some papers";
+            msg.innerHTML += "To publish quality papers";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Do some Patent Works";
+            msg.innerHTML += "Successful in financial invesments";
             msg.innerHTML += "<br>";
-            msg.innerHTML += "Earn some Big Money";
+            msg.innerHTML += "Practively engage in community";
 
             break;
 
@@ -200,6 +200,7 @@ window.addEventListener("DOMContentLoaded", () => {
 
     const dpTable = document.querySelectorAll('.dpTable.row');
     const imgBtn = document.querySelectorAll('.imgBox.column');
+    
 
     for(let idx = 0; 0 <imgBtn.length; idx++){
         console.log(imgBtn.length);
